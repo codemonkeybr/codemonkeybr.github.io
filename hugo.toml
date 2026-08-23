@@ -1,4 +1,4 @@
-baseURL = 'https://codemonkeybr.github.com/'
+baseURL = 'https://codemonkeybr.github.io/'
 languageCode = 'en-us'
 title = 'codemonkeybr'
 theme = 'PaperMod'
