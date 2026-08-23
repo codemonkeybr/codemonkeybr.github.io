@@ -1,6 +1,6 @@
 +++
 date = '2026-08-23T09:00:00-06:00'
-draft = true
+draft = false
 title = 'Standing Up a Reticulum Gateway'
 description = 'Fundamentals of Reticulum, and how to build your own always-on gateway node — the first post in a series on the mesh network infrastructure I run at home.'
 tags = ['reticulum', 'networking', 'self-hosted']

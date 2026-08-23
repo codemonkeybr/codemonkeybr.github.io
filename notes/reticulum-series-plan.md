@@ -2,7 +2,7 @@
 
 ## Context
 
-This is the first content series for the `codemonkeybr.github.com` Hugo blog. It's based on real Reticulum/LXMF/NomadNet infrastructure the user built to support the `game-center` NomadNet BBS project — but the series itself is scoped purely to the underlying network infrastructure, not the games. The user wants to teach readers how to stand up their own gateway (with LXMF), NomadNet page server, and LoRa gateway, integrated with the public `rmap.world` network — advising on best-practice architecture rather than mirroring the user's own hardware-constrained two-Pi split.
+This is the first content series for the `codemonkeybr.github.io` Hugo blog. It's based on real Reticulum/LXMF/NomadNet infrastructure the user built to support the `game-center` NomadNet BBS project — but the series itself is scoped purely to the underlying network infrastructure, not the games. The user wants to teach readers how to stand up their own gateway (with LXMF), NomadNet page server, and LoRa gateway, integrated with the public `rmap.world` network — advising on best-practice architecture rather than mirroring the user's own hardware-constrained two-Pi split.
 
 Mid-series, the user flagged an important extra topic: RNS interface **modes** (`internal`/`boundary`/etc.), which they used to stop a public WAN interface from flooding their LoRa radio's limited airtime with announce traffic. Research confirmed this has enough depth (6-7 modes, an asymmetric propagation matrix, a silent auto-mode-inference gotcha, a real "we almost configured it backwards" trap, and adjacent airtime-limiting knobs) to be its own post, and it grew directly out of the LoRa-gateway airtime problem — so it's sequenced right after that post rather than folded into Post 1.
 

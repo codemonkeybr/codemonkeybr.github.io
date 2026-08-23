@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-A Hugo static blog, deployed to GitHub Pages at `https://codemonkeybr.github.com/`. Posts are
+A Hugo static blog, deployed to GitHub Pages at `https://codemonkeybr.github.io/`. Posts are
 write-ups about AI-assisted development work — mostly Claude Code sessions — drawn from real
 projects that live under `~/dev/` (a sibling directory, one level up from this repo). This repo
 only contains the blog itself; the source projects it writes about are elsewhere on disk.
